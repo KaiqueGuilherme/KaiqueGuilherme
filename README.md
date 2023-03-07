@@ -1,7 +1,6 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+## Oiii eu sou o Kaique Guilherme, Estudante de programação e tecnologias!
 
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+Eu sou estudante de programação dedicado e apaixonado pela área. Com habilidades em diversas Linguagens, estou em busca de novas oportunidades para expandir meu conhecimento e aplicá-lo em projetos desafiadores. Com uma atitude proativa e curiosa,sou um colaborador valioso para qualquer trabalho em equipe e metodologia ágeis.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
